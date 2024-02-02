@@ -365,7 +365,7 @@
           value: 50,
           density: {
             enable: true,
-            value_area: 500,
+            value_area: 1000,
           },
         },
         color: {
