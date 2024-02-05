@@ -893,11 +893,6 @@ p {
   color: #fff;
 }
 
-.contact .info-item:hover i {
-  background: var(--color-primary);
-  color: #fff;
-}
-
 /*--------------------------------------------------------------
 # Background Animation
 --------------------------------------------------------------*/
